@@ -1,5 +1,7 @@
 package com.barclays.fsd.oop;
 
+// a comment 
+
 public class BankCustomer {
 
 	private double balance;
